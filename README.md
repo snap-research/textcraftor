@@ -1,1 +1,1 @@
-# textcraftor
+# TextCraftor
