@@ -34,6 +34,7 @@ Due to GitHub file size limit, we do not hold model weights in this repo. You ne
             |-- config.json
             |-- model.safetensors
     |-- stable-diffusion-v1-5
+    |-- openprompts.csv
     |-- ...
 ```
 
