@@ -1,0 +1,9 @@
+accelerate
+transformers
+git+https://github.com/huggingface/diffusers
+datasets
+git+https://github.com/openai/CLIP.git
+pandas
+open_clip_torch
+pytorch_lightning
+clint
