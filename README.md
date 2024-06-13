@@ -41,7 +41,7 @@ Due to GitHub file size limit, we do not hold model weights in this repo. You ne
 ```
 
 ## Training 
-You can simply train TextCraftor with the following script: 
+You can train TextCraftor with the following script: 
 ```
 sh run_textcraftor.sh
 ```
