@@ -1,6 +1,8 @@
 ## TextCraftor<br><sub>Your Text Encoder Can be Image Quality Controller</sub>
 [Webpage](https://snap-research.github.io/textcraftor/) | [arXiv](https://arxiv.org/abs/2403.18978)
 
+### This is the official PyTorch implementation of paper: [TextCraftor: Your Text Encoder Can be Image Quality Controller](https://arxiv.org/abs/2403.18978)
+
 ## Prerequisites
 
 ### Installation
